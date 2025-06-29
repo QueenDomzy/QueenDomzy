@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋QueenDomzy/QueenDomzy** is a ✨ _special_ ✨ repository because I’m currently working on ...its `README.md`
+I’m currently working on ...
 
 <!--
 **QueenDomzy/QueenDomzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
