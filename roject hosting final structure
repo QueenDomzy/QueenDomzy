@@ -1,0 +1,4 @@
+SwiftStayAI/
+│── frontend/        <- static HTML, CSS, JS
+│── backend/         <- FastAPI + AI backend
+│── README_DEPLOY.md
