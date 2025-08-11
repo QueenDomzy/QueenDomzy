@@ -1,0 +1,1 @@
+console.log("Smart hotel recommendation script loaded.");
