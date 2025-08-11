@@ -1,0 +1,25 @@
+SwiftStayAI/
+│
+├── frontend/
+│   ├── index.html
+│   ├── about.html
+│   ├── hotels.html
+│   ├── onboarding.html
+│   ├── contact.html
+│   ├── style.css
+│   ├── js/
+│   │   ├── recommendations.js
+│   │   └── wow.min.js (optional)
+│   └── images/
+│       └── logo.png (placeholder)
+│
+├── backend/
+│   ├── swiftstay_ai.py
+│   ├── hotel_signups.txt
+│   ├── uploads/
+│   ├── enhanced/
+│   └── thumbnails/
+│
+├── requirements.txt
+├── README_DEPLOY.md
+└── .gitignore
