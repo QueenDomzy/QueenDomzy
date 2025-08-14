@@ -1,0 +1,22 @@
+SwiftStayAI/
+│── index.html
+│── about.html
+│── onboarding.html
+│── hotels.html
+│── contact.html
+│── style.css
+│
+├── css/
+│   └── animate.min.css        (animation library)
+│
+├── js/
+│   ├── wow.min.js             (scroll animations)
+│   └── recommendations.js     (smart hotel recommendation logic)
+│
+├── images/                    (hotel photos, logos)
+│
+├── backend/
+│   ├── submit_form.php        (hotel partner form handler)
+│   └── ai_screen.py           (Python AI microservice)
+│
+└── hotel_signups.txt          (stores hotel registrations)
